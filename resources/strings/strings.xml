@@ -5,4 +5,9 @@
 
     <string id="menu_label_1">Item 1</string>
     <string id="menu_label_2">Item 2</string>
+
+    <string id="app_name">WatchVault</string>
+    <string id="read_secret">Read secret</string>
+    <string id="edit_create">Edit / Create secret</string>
+    <string id="hint_select">Press START</string>
 </strings>
